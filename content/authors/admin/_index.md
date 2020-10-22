@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Robin Wei
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Beijing University of Post and Telecommunication
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
